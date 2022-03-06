@@ -47,7 +47,7 @@ function draw(){
     }
 
     elseif(Status = " ");{
-        play.song("alarm_clock_5.mp3");
+        loadSound("alarm_clock_5.mp3");
     }
 }
 
